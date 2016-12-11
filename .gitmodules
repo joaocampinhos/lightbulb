@@ -1,0 +1,3 @@
+[submodule "dotnet"]
+	path = dotnet
+	url = git@github.com:joaocampinhos/aspnet-api-versioning.git
